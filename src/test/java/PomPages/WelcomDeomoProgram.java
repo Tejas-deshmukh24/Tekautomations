@@ -6,6 +6,7 @@ public class WelcomDeomoProgram {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to gitbash");
+		System.out.println("Tek Pyramid Java Selenium");
 
 	}
 
